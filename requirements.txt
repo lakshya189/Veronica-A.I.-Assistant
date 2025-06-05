@@ -1,0 +1,10 @@
+speechrecognition
+requests
+google-generativeai
+pygame
+tempfile
+logging
+gtts
+pydub
+kivy
+decouple
